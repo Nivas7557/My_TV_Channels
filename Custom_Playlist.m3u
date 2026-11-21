@@ -67,6 +67,8 @@ http://37.49.224.5/stream/11/index.m3u8
 http://87.120.179.187:8000/play/a010
 #EXTINF:-1 group-title="Kids / Animation" tvg-chno="708" tvg-id="DisneyChannel.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",Disney Channel (Czech Republic)
 http://88.212.15.50/live/test_disney/playlist.m3u8
+#EXTINF:-1 group-title="Kids / Animation" tvg-chno="708" tvg-id="DisneyChannel.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",Disney Channel (France)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F11741266772bc970bcdea5
 #EXTINF:-1 group-title="Kids / Animation" tvg-chno="708" tvg-id="DisneyChannel.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",Disney Channel (Germany) (576p)
 https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 group-title="Kids / Animation" tvg-chno="708" tvg-id="DisneyChannel.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",Disney Channel (Germany) HD
@@ -241,6 +243,8 @@ http://103.135.253.32:8080/NICK/index.m3u8
 http://185.227.34.104/stream/117/index.m3u8
 #EXTINF:-1 group-title="Kids / Animation" tvg-chno="704" tvg-id="Nickelodeon.nl@SD" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon (Netherlands)
 http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
+#EXTINF:-1 group-title="Kids / Animation" tvg-chno="704" tvg-id="Nickelodeon.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png",Nickelodeon (Portugal)
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F398241518529a84217dd1f
 #EXTINF:-1 group-title="Kids / Animation" tvg-chno="704" tvg-id="Nickelodeon.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Nickelodeon_Splat_2023.png/revision/latest?cb=20241009234318",Nickelodeon (Romania)
 http://178.76.68.60:7442/64/mpegts
 #EXTINF:-1 group-title="Kids / Animation" tvg-chno="704" tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png",Nickelodeon (Russia) (576p)
@@ -272,18 +276,30 @@ http://103.185.24.134:3001/SONIC/index.m3u8
 http://116.90.120.149:8000/play/a130/index.m3u8
 #EXTINF:-1 group-title="English Movie Group" tvg-chno="403" tvg-id="SonyPix.in@HD" tvg-logo="https://i.postimg.cc/Z5G8j67L/PIX-HD-WHITE.png",Sony Pix HD (1080p)
 http://116.90.120.149:8000/play/a138/index.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-chno="112" tvg-id="SonySportsTen1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",Sony Sports Ten 1 (576p)
+http://116.90.120.149:8000/play/a126/index.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-chno="112" tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",Sony Sports Ten 1 HD (1080p)
+http://116.90.120.149:8000/play/a11t/index.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-chno="113" tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",Sony Sports Ten 2 HD (1080p)
+http://116.90.120.149:8000/play/a137/index.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-chno="115" tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png",Sony Sports Ten 5 (576p)
+http://116.90.120.149:8000/play/a117/index.m3u8
 #EXTINF:-1 group-title="Kids / Animation" tvg-chno="718" tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540",Sony Yay! (1080p)
 https://r2.amml.in/sony-yay/live.m3u8
 #EXTINF:-1 group-title="Entertainment Group" tvg-chno="202" tvg-id="StarMaa.in@HD" tvg-logo="https://i.imgur.com/5c9PVS0.png",Star Maa HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="Movies & Music (Telugu)" tvg-chno="301" tvg-id="StarMaaMovies.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143826_ld_h15_aa.png?lock=720x540",Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 group-title="English Movie Group" tvg-chno="404" tvg-id="StarMovies.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",Star Movies (India) HD (1080p)
+http://116.90.120.149:8000/play/a13a/index.m3u8
 #EXTINF:-1 group-title="English Movie Group" tvg-chno="404" tvg-id="StarMovies.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Movies_2023.svg/960px-Star_Movies_2023.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Star Movies (Portugal)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://znty.dyndns.org:5010/hls/foxm.m3u8
 #EXTINF:-1 group-title="English Movie Group" tvg-chno="404" tvg-id="StarMovies.si@SD" tvg-logo="https://i.imgur.com/JcoAgDF.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",Star Movies (Slovenia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://92.36.202.5:10001/play/a01o
+#EXTINF:-1 group-title="Sports Channels" tvg-chno="110" tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",Star Sports 1 Hindi HD (1080p)
+http://116.90.120.149:8000/play/a122/index.m3u8
 #EXTINF:-1 group-title="English Movie Group" tvg-chno="409" tvg-id="StudioOnePlus.in@SD" tvg-logo="https://i.imgur.com/yOPB7JB.png",Studio One + (720p)
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 #EXTINF:-1 group-title="Entertainment Group" tvg-chno="206" tvg-id="SunGemini.in@SD" tvg-logo="https://sund-images.sunnxt.com/194396/300x300_SunGemini_194396_22c18c1e-7eb9-4855-9c4e-12e109911559.png",Sun Gemini (576p)
